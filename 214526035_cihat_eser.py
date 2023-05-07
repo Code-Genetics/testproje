@@ -34,7 +34,7 @@ print(Liste1 + Liste2)
     # 2. DENEME
     
 Liste_a = [ 'hitit', 2006 , 1, 'uni', 70.2 ] 
-Liste_b= [123, 'Corum']
+Liste_b= [123, 'Corum']  # cihat
 
 
 #soru1
