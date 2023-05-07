@@ -40,17 +40,17 @@ Liste_b= [123, 'Corum']
 #soru1
 
 ankara=[]
-corum=[]
+istanbul=[]
 
 for x in Liste_a:
     if isinstance(x,int):
-        corum.append(x)
+        istanbul.append(x)
     elif isinstance(x,str):
         ankara.append(x)
     else:
         pass
 
-print(corum)
+print(istanbul)
 
 
 #Soru3
